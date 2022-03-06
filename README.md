@@ -1,4 +1,6 @@
 # Tableau-Presentation-and-Reporting
+https://public.tableau.com/app/profile/dung.nguyen5472/viz/MedicalDataLab/Dashboard1
+
 NAM2 — TASK 1: DATA DASHBOARD AND STORYTELLING
 REPRESENTATION AND REPORTING — D210
 PRFA — NAM2
